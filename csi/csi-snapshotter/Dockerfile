@@ -1,2 +1,2 @@
-FROM quay.io/k8scsi/csi-snapshotter:v0.4.1
+FROM k8s.gcr.io/sig-storage/csi-snapshotter:v2.1.0
 MAINTAINER shanqiuge <lkyuang@126.com>
